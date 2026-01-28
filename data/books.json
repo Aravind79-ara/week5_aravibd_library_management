@@ -1,0 +1,11 @@
+{
+    "12345678": {
+        "title": "aravind life",
+        "author": "aravind",
+        "isbn": "12345678",
+        "year": "2026",
+        "available": true,
+        "borrowed_by": null,
+        "duedate": null
+    }
+}
